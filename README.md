@@ -2,105 +2,124 @@
 
 ### Python Full Stack Developer | BCA Graduate
 
-I’m a **BCA graduate** looking for **entry-level opportunities as a Python Developer or Python Full Stack Developer**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer;Django+Developer;Building+Web+Applications;Learning+%7C+Building+%7C+Improving" alt="Typing SVG" />
+</p>
 
-My main focus is **Python, Django, SQL, HTML, CSS, JavaScript, and REST APIs**. I enjoy building practical web applications and understanding how the **frontend, backend, APIs, and database work together**.
-
-I’m currently improving my skills through projects, coding practice, and hands-on development with Git and GitHub.
+<p align="center">
+  <a href="https://linkedin.com/in/nidhinr">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/nidhinr07">
+    <img src="https://img.shields.io/badge/GitHub-nidhinr07-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🚀 What I'm Working With
+## 👨‍💻 About Me
 
-* 🐍 Python
-* 🌐 Django
-* 🗄️ SQL & Relational Databases
-* 🔗 REST APIs
-* 🎨 HTML, CSS & JavaScript
-* ⚛️ React
-* 🔧 Git & GitHub
-* 💻 Full Stack Web Development
+I'm a **BCA graduate** focused on building practical web applications with **Python and Django**.
+
+My main areas of interest include backend development, REST APIs, databases, frontend development, and full-stack web applications. I enjoy learning by building projects and continuously improving my development skills through coding practice.
+
+* 🔭 Building **Python & Django web applications**
+* 🌱 Improving my **Python Full Stack Development** skills
+* 💡 Interested in **backend development and REST APIs**
+* 🧩 Practicing problem-solving through Python coding challenges
+* 🛠️ Building frontend projects to strengthen UI development skills
+* 📚 Continuously learning and improving
+
+---
+
+## 🧰 Tech Stack
+
+### Programming
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="50" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" height="50" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,fastapi" height="50" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql" height="50" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="50" />
+</p>
 
 ---
 
 ## 💻 Technical Skills
 
-### Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
-### Backend
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-
-### Database
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
-
-### APIs & Development
-
-* REST APIs
-* HTTP Methods
-* JSON
-* CRUD Operations
-* Client-Server Architecture
-* Authentication & Authorization
-* Database Integration
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+| Area            | Skills                                                    |
+| --------------- | --------------------------------------------------------- |
+| **Programming** | Python                                                    |
+| **Frontend**    | HTML5, CSS3, JavaScript, React                            |
+| **Backend**     | Django, FastAPI                                           |
+| **APIs**        | REST APIs, HTTP Methods, JSON                             |
+| **Database**    | SQL, SQLite, MySQL                                        |
+| **Development** | CRUD, Authentication, Authorization, Database Integration |
+| **Tools**       | Git, GitHub, VS Code, Postman                             |
 
 ---
 
-## 🛠️ Projects
+## 🚀 Featured Projects
+
+### 🧠 Resume Analyzer & AI Mock Interview Platform
+
+An AI-integrated web application built with Django for resume analysis and mock interview practice.
+
+**Features:**
+
+* Resume upload and analysis
+* Resume scoring and improvement suggestions
+* AI-generated resume-based interview questions
+* AI mock interview functionality
+* Speech-to-text interview interaction
+* Interview history and feedback
+* Document processing and OCR
+
+**Technologies:** Python • Django • SQLite • JavaScript • Bootstrap • Google Gemini API
+
+---
 
 ### 🛒 Django E-commerce Website
 
-A full-stack e-commerce web application built with Django.
+A full-stack e-commerce application built with Django.
 
 **Features:**
 
 * User authentication
-* Product listing and product details
+* Product listing and details
 * Shopping cart
-* Order functionality
+* Order management
 * Database integration
+* CRUD functionality
 
 **Technologies:** Python • Django • HTML • CSS • JavaScript • SQLite
 
 ---
 
-### 📱 SmartMobile – Product Review & Quality System
-
-A web-based product review and quality management system developed for a mobile accessories store.
-
-**Features:**
-
-* Product management
-* Product reviews and ratings
-* Product ordering
-* User functionality
-* Admin functionality
-
-**Technologies:** HTML • CSS • JavaScript • Python • SQL • FastAPI
-
----
-
 ### 💰 Financial Portfolio Management System
 
-A Python and SQLite-based application for managing financial portfolios.
+A Python-based application for managing financial portfolios and transactions.
 
 **Features:**
 
@@ -114,50 +133,100 @@ A Python and SQLite-based application for managing financial portfolios.
 
 ---
 
-## 📚 Coding Practice
+### 📱 SmartMobile – Product Review & Quality System
 
-I regularly practice Python programming and problem-solving through small projects and coding challenges.
+A web-based product review and quality management system.
 
-### 🐍 30 Days Python Challenge
+**Features:**
 
-[30-Days-Python-Challenge](https://github.com/nidhinr07/30-Days-Python-Challenge)
+* Product management
+* Product reviews and ratings
+* Product ordering
+* User functionality
+* Admin functionality
 
-A 30-day Python learning journey covering programming concepts through daily practice and projects.
-
-### 🎮 Python Mini Games
-
-[python-mini-games](https://github.com/nidhinr07/python-mini-games)
-
-A collection of small Python games created to practice programming logic, functions, loops, and object-oriented programming.
-
-### 🌐 Frontend Projects
-
-[frontend-projects](https://github.com/nidhinr07/frontend-projects)
-
-A collection of frontend practice projects built using HTML and CSS.
+**Technologies:** HTML • CSS • JavaScript • Python • SQL • FastAPI
 
 ---
 
-## 📈 GitHub Stats
+## 🐍 Coding Practice
 
-![Nidhin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhinr07\&show_icons=true\&include_all_commits=true\&count_private=true)
+I practice Python programming regularly through coding challenges and small projects to improve my problem-solving and programming skills.
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=nidhinr07)
+### 30 Days Python Challenge
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhinr07\&layout=compact\&include_all_commits=true\&count_private=true)
+<a href="https://github.com/nidhinr07/30-Days-Python-Challenge">
+  <img src="https://img.shields.io/badge/View_Repository-30_Days_Python_Challenge-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</a>
+
+A 30-day Python practice journey covering programming concepts through daily exercises and projects.
+
+### Python Mini Games
+
+<a href="https://github.com/nidhinr07/python-mini-games">
+  <img src="https://img.shields.io/badge/View_Repository-Python_Mini_Games-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+A collection of small Python games created to practice programming logic, functions, loops, and object-oriented programming.
+
+---
+
+## 🌐 Frontend Project Collection
+
+<a href="https://github.com/nidhinr07/frontend-projects">
+  <img src="https://img.shields.io/badge/View_Repository-Frontend_Projects-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</a>
+
+A growing collection of website clones and UI interfaces recreated using **HTML, CSS, and JavaScript**.
+
+Projects include interfaces inspired by:
+
+**Instagram • Facebook • Spotify • YouTube • Netflix • Amazon • LinkedIn • GitHub • Google • Apple • Microsoft • Discord • Pinterest • Airbnb • Dribbble • Slack • Trello • WhatsApp**
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nidhinr07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhinr07&layout=compact&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=nidhinr07&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhinr07&hide_border=true&area=true" width="95%" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/nidhinr)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/n4dhin._)
+<p align="center">
+  <a href="https://linkedin.com/in/nidhinr">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/nidhinr07">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 💡 Learn • Build • Improve
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nidhinr07&label=Profile%20Views&color=3776AB&style=flat" />
+</p>
 
-**Python • Django • APIs • Databases • Full Stack Development • Problem Solving**
+<p align="center">
+  <b>Learn • Build • Improve</b>
+</p>
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+  Python • Django • REST APIs • Databases • Full Stack Development
+</p>
