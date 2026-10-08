@@ -1,12 +1,10 @@
 <div align="center">
 
-<a href="https://github.com/nidhinr07">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Python+Full+Stack+Developer;Django+%7C+REST+APIs+%7C+SQL;Building+Clean+and+Practical+Web+Applications;Always+Learning.+Always+Building." alt="Typing Animation" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=180&section=header&text=NIDHIN%20R&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Python%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=nidhinr07&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" alt="Profile Views" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Python+Full+Stack+Developer;Django+%7C+REST+APIs+%7C+SQL;Building+Clean+and+Practical+Web+Applications;Always+Learning.+Always+Building." alt="Typing Animation" />
 
 <br><br>
 
@@ -55,7 +53,11 @@ class Nidhin:
 
 <div align="center">
 
-### Turning ideas into working applications.
+### `Turning ideas into working applications.`
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=650&lines=Code+with+purpose.;Build+with+curiosity.;Improve+with+every+project." alt="Developer Mindset Animation" />
 
 </div>
 
@@ -85,17 +87,33 @@ class Nidhin:
 
 </div>
 
+<br>
+
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
 ### Resume Analyzer & AI Mock Interview Platform
 
-A Django-based platform combining resume analysis, document processing, AI-generated interview questions, and live mock interviews.
+AI-powered Django platform for resume analysis, personalized interview questions, and live mock interviews using the Google Gemini API and document processing.
 
-**Python · Django · SQLite · JavaScript · Bootstrap · Gemini API · OCR**
+**Python · Django · Gemini API · SQLite · JavaScript · Bootstrap**
+
+</td>
+
+<td width="50%" valign="top">
 
 ### Django E-commerce Website
 
-A full-stack e-commerce application with authentication, product management, cart functionality, and order handling.
+Full-stack e-commerce application built with Django, featuring user authentication, product management, shopping cart, and order management.
 
-**Python · Django · HTML · CSS · JavaScript · SQLite**
+**Python · Django · SQLite · HTML · CSS · JavaScript**
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
@@ -195,12 +213,12 @@ A full-stack e-commerce application with authentication, product management, car
 
 <table>
 <tr>
-<td align="center">🐍<br><b>Python</b></td>
-<td align="center">🌐<br><b>Django</b></td>
-<td align="center">🔗<br><b>REST APIs</b></td>
-<td align="center">🗄️<br><b>SQL</b></td>
-<td align="center">⚛️<br><b>React</b></td>
-<td align="center">🤖<br><b>AI / LLM</b></td>
+<td align="center" width="120">🐍<br><b>Python</b></td>
+<td align="center" width="120">🌐<br><b>Django</b></td>
+<td align="center" width="120">🔗<br><b>REST APIs</b></td>
+<td align="center" width="120">🗄️<br><b>SQL</b></td>
+<td align="center" width="120">⚛️<br><b>React</b></td>
+<td align="center" width="120">🤖<br><b>AI / LLM</b></td>
 </tr>
 </table>
 
@@ -244,6 +262,6 @@ A full-stack e-commerce application with authentication, product management, car
 
 <br><br>
 
-**`Build • Learn • Improve`**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:161B22,100:0D1117&height=100&section=footer&animation=fadeIn" width="100%" />
 
 </div>
