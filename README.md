@@ -77,24 +77,16 @@ class Nidhin:
 
 ## `🚀 Featured Projects`
 
-<div align="center">
-
-<a href="https://github.com/nidhinr07/resume-analyzer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nidhinr07&repo=resume-analyzer&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/nidhinr07/ecommerce-website">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nidhinr07&repo=ecommerce-website&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<br>
-
 <table align="center">
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
+
+<a href="https://github.com/nidhinr07/resume-analyzer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nidhinr07&repo=resume-analyzer&theme=tokyonight&hide_border=true" width="100%" />
+</a>
+
+<br>
 
 ### Resume Analyzer & AI Mock Interview Platform
 
@@ -104,7 +96,13 @@ AI-powered Django platform for resume analysis, personalized interview questions
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
+
+<a href="https://github.com/nidhinr07/ecommerce-website">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nidhinr07&repo=ecommerce-website&theme=tokyonight&hide_border=true" width="100%" />
+</a>
+
+<br>
 
 ### Django E-commerce Website
 
@@ -155,11 +153,11 @@ Full-stack e-commerce application built with Django, featuring user authenticati
 
 <div align="center">
 
-<img src="./output/github-contribution-grid-snake-dark.svg" width="96%" alt="GitHub Contribution Calendar" />
-
-<br><br>
-
-<img src="./output/github-contribution-grid-snake.svg" width="96%" alt="GitHub Contribution Snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./output/github-contribution-grid-snake.svg">
+  <img src="./output/github-contribution-grid-snake.svg" width="96%" alt="GitHub Contribution Calendar">
+</picture>
 
 </div>
 
@@ -167,17 +165,39 @@ Full-stack e-commerce application built with Django, featuring user authenticati
 
 ## `💻 Coding Practice`
 
-<div align="center">
+<table align="center">
+<tr>
+
+<td width="50%" align="center" valign="top">
 
 <a href="https://github.com/nidhinr07/python-coding-practice">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nidhinr07&repo=python-coding-practice&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nidhinr07&repo=python-coding-practice&theme=tokyonight&hide_border=true" width="100%" />
 </a>
+
+<br>
+
+### Python Coding Practice
+
+Problem-solving exercises covering Python fundamentals, integers, strings, and basic programming logic.
+
+</td>
+
+<td width="50%" align="center" valign="top">
 
 <a href="https://github.com/nidhinr07/python-mini-games">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nidhinr07&repo=python-mini-games&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nidhinr07&repo=python-mini-games&theme=tokyonight&hide_border=true" width="100%" />
 </a>
 
-</div>
+<br>
+
+### Python Mini Games
+
+A collection of small Python games created to practice programming logic and problem-solving.
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
@@ -222,34 +242,31 @@ Full-stack e-commerce application built with Django, featuring user authenticati
 
 <table align="center">
 <tr>
-<td align="center">
 
+<td align="center">
 <a href="https://github.com/nidhinr07">
 <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 </td>
-<td align="center">
 
+<td align="center">
 <a href="https://linkedin.com/in/nidhinr">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 </td>
-<td align="center">
 
+<td align="center">
 <a href="https://instagram.com/n4dhin._">
 <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
 </td>
-<td align="center">
 
+<td align="center">
 <a href="mailto:n4dhin@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 </td>
+
 </tr>
 </table>
 
