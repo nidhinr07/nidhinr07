@@ -1,208 +1,249 @@
-# Hi, I'm Nidhin 👋
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=3776AB&center=true&vCenter=true&width=650&lines=Python+Full+Stack+Developer;Django+Developer;Building+Practical+Web+Applications;Learning+%7C+Building+%7C+Improving" alt="Typing introduction" />
-</p>
+<a href="https://github.com/nidhinr07">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Python+Full+Stack+Developer;Django+%7C+REST+APIs+%7C+SQL;Building+Clean+and+Practical+Web+Applications;Always+Learning.+Always+Building." alt="Typing Animation" />
+</a>
 
-<p align="center">
-  <a href="https://linkedin.com/in/nidhinr">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/nidhinr07">GitHub</a>
-</p>
+<br>
 
----
+<img src="https://komarev.com/ghpvc/?username=nidhinr07&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" alt="Profile Views" />
 
-## About Me
+<br><br>
 
-I'm a **BCA graduate** focused on **Python Full Stack Development** and building practical web applications.
+<a href="https://github.com/nidhinr07">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/nidhinr">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/n4dhin._">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:n4dhin@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-My primary technologies are **Python, Django, SQL, REST APIs, HTML, CSS, and JavaScript**. I enjoy working across the frontend and backend to understand how applications, APIs, and databases work together.
+</div>
 
-I improve my skills through hands-on projects, coding practice, and continuous learning.
+<br>
 
-### Current Focus
+## `> whoami`
 
-* Building web applications with **Python and Django**
-* Developing and working with **REST APIs**
-* Practicing **SQL and database integration**
-* Improving frontend development skills
-* Learning and practicing **React**
-* Strengthening problem-solving through Python
-* Building and maintaining projects with **Git and GitHub**
+```python
+class Nidhin:
 
----
+    role = "Python Full Stack Developer"
+    education = "BCA Graduate"
+    location = "Kerala, India"
 
-## Technical Skills
+    currently_building = [
+        "Django Web Applications",
+        "REST APIs",
+        "AI-Integrated Applications",
+        "Frontend Interfaces"
+    ]
 
-### Languages
+    currently_learning = [
+        "Advanced Django",
+        "REST API Development",
+        "React",
+        "AI / LLM Integration"
+    ]
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+    mindset = "Build → Learn → Improve"
+```
 
-### Frontend
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+### Turning ideas into working applications.
 
-### Backend
+</div>
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+<br>
 
-### Database
+## `⚡ Technical Skills`
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square\&logo=sqlite\&logoColor=white)
+<div align="center">
 
-### Tools
+<img src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,react,fastapi,sqlite,mysql,mongodb,git,github,postman&theme=dark" />
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visual-studio-code\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+</div>
 
-**Development:** REST APIs • CRUD Operations • Authentication • Authorization • Database Integration • Responsive Web Design
+<br>
 
----
+## `🚀 Featured Projects`
 
-## Featured Projects
+<div align="center">
+
+<a href="https://github.com/nidhinr07/resume-analyzer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nidhinr07&repo=resume-analyzer&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/nidhinr07/ecommerce-website">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nidhinr07&repo=ecommerce-website&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
 
 ### Resume Analyzer & AI Mock Interview Platform
 
-An AI-integrated Django web application for resume analysis and mock interview practice.
+A Django-based platform combining resume analysis, document processing, AI-generated interview questions, and live mock interviews.
 
-**Key Features**
-
-* Resume upload and analysis
-* Resume scoring and improvement suggestions
-* Resume-based interview question generation
-* AI mock interview functionality
-* Speech-to-text interaction
-* Interview feedback and history
-* Document processing and OCR
-
-**Technologies:** Python • Django • SQLite • JavaScript • Bootstrap • Google Gemini API
-
----
+**Python · Django · SQLite · JavaScript · Bootstrap · Gemini API · OCR**
 
 ### Django E-commerce Website
 
-A full-stack e-commerce application developed using Django.
+A full-stack e-commerce application with authentication, product management, cart functionality, and order handling.
 
-**Key Features**
+**Python · Django · HTML · CSS · JavaScript · SQLite**
 
-* User authentication
-* Product listing and product details
-* Shopping cart
-* Order management
-* CRUD functionality
-* Database integration
+<br>
 
-**Technologies:** Python • Django • HTML • CSS • JavaScript • SQLite
+## `📊 GitHub Statistics`
 
----
+<div align="center">
 
-### Financial Portfolio Management System
+<img src="https://github-readme-stats.vercel.app/api?username=nidhinr07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" height="180" />
 
-A Python and SQLite application for managing financial portfolios, investments, and transactions.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhinr07&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180" />
 
-**Key Features**
+</div>
 
-* Portfolio management
-* Investment tracking
-* Transaction management
-* Profit and loss calculation
-* CRUD operations
+<br>
 
-**Technologies:** Python • SQLite • SQL • OOP
+## `🔥 Contribution Streak`
 
----
+<div align="center">
 
-### SmartMobile – Product Review & Quality System
+<img src="https://streak-stats.demolab.com?user=nidhinr07&theme=tokyonight&hide_border=true&border_radius=12" />
 
-A web-based product review and quality management system developed for a mobile accessories store.
+</div>
 
-**Key Features**
+<br>
 
-* Product management
-* Reviews and ratings
-* Product ordering
-* User functionality
-* Admin functionality
+## `📈 Contribution Activity`
 
-**Technologies:** HTML • CSS • JavaScript • Python • SQL • FastAPI
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhinr07&theme=tokyo-night&hide_border=true&area=true&radius=12" width="96%" />
 
-## Coding Practice
+</div>
 
-### 30 Days Python Challenge
+<br>
 
-[View Repository](https://github.com/nidhinr07/30-Days-Python-Challenge)
+## `🗓️ Contribution Calendar`
 
-A 30-day Python practice journey covering programming concepts through daily exercises and projects.
+<div align="center">
 
-### Python Mini Games
+<img src="https://github.com/nidhinr07/nidhinr07/blob/output/github-contribution-grid-snake.svg" width="96%" alt="GitHub Contribution Snake Animation" />
 
-[View Repository](https://github.com/nidhinr07/python-mini-games)
+</div>
 
-A collection of small Python games created to practice programming logic, functions, loops, and object-oriented programming.
+<br>
 
----
+## `📅 GitHub Overview`
 
-## Frontend Project Collection
+<div align="center">
 
-[View Repository](https://github.com/nidhinr07/frontend-projects)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nidhinr07&theme=tokyonight" width="96%" />
 
-A growing collection of website clones and UI interfaces recreated using **HTML, CSS, and JavaScript**.
+<br><br>
 
-**Projects include:**
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nidhinr07&theme=tokyonight&utcOffset=5.5" width="47%" />
 
-Instagram • Facebook • Spotify • YouTube • Netflix • Amazon • LinkedIn • GitHub • Google • Apple • Microsoft • Discord • Pinterest • Airbnb • Dribbble • Slack • Trello • WhatsApp
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nidhinr07&theme=tokyonight" width="47%" />
 
----
+</div>
 
-## GitHub Statistics
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nidhinr07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhinr07&layout=compact&hide_border=true" height="165" />
-</p>
+## `💻 Coding Practice`
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nidhinr07&hide_border=true" />
-</p>
+<div align="center">
 
----
+<a href="https://github.com/nidhinr07/python-coding-practice">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nidhinr07&repo=python-coding-practice&theme=tokyonight&hide_border=true" />
+</a>
 
-## Contribution Activity
+<a href="https://github.com/nidhinr07/python-mini-games">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nidhinr07&repo=python-mini-games&theme=tokyonight&hide_border=true" />
+</a>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhinr07&hide_border=true&area=true" width="95%" />
-</p>
+</div>
 
----
+<br>
 
-## Connect With Me
+## `🎨 Frontend Projects`
 
-<p align="center">
-  <a href="https://linkedin.com/in/nidhinr">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/nidhinr07">
-    <img src="https://img.shields.io/badge/GitHub-nidhinr07-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nidhinr07&label=Profile%20Views&style=flat-square" />
-</p>
+<a href="https://github.com/nidhinr07/frontend-projects">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nidhinr07&repo=frontend-projects&theme=tokyonight&hide_border=true" />
+</a>
 
-<p align="center">
-  <b>Learn • Build • Improve</b>
-</p>
+<br><br>
 
-<p align="center">
-  Python • Django • REST APIs • Databases • Full Stack Development
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react&theme=dark" />
+
+</div>
+
+<br>
+
+## `🧠 Current Focus`
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">🐍<br><b>Python</b></td>
+<td align="center">🌐<br><b>Django</b></td>
+<td align="center">🔗<br><b>REST APIs</b></td>
+<td align="center">🗄️<br><b>SQL</b></td>
+<td align="center">⚛️<br><b>React</b></td>
+<td align="center">🤖<br><b>AI / LLM</b></td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+## `🏆 GitHub Achievements`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nidhinr07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="96%" />
+
+</div>
+
+<br>
+
+## `🌐 Connect With Me`
+
+<div align="center">
+
+<a href="https://github.com/nidhinr07">
+<img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/nidhinr">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/n4dhin._">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:n4dhin@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile.;Build+something+useful.;Keep+learning.;Keep+building." alt="Closing Animation" />
+
+<br><br>
+
+**`Build • Learn • Improve`**
+
+</div>
